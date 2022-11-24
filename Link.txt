@@ -1,2 +1,15 @@
 Xcode Configurations and Flags:
 https://www.youtube.com/watch?v=Bg0GvgB3jQ8&list=PLBn01m5Vbs4C8jeAmLZxk9kZ59lYtxnHW&index=61&ab_channel=StewartLynch
+
+References mentioned in video:
+Apple Doc:
+https://help.apple.com/xcode/mac/11.4/#/dev745c5c974
+
+AppCoda:
+https://www.appcoda.com/xcconfig-guide/
+
+Heartbeat:
+https://heartbeat.comet.ml/xcode-build-settings-in-depth-733667d01a9a
+
+NSHipster:
+https://nshipster.com/xcconfig/

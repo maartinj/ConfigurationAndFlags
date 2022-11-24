@@ -9,6 +9,15 @@ import SwiftUI
 
 @main
 struct Configuration_and_FlagsApp: App {
+    init() {
+        #if DEVELOPMENT
+        print("I am in DEVELOPMENT")
+        #elseif DEBUG
+        print("I am in DEBUG")
+        #else
+        print("I am in RELEASE")
+        #endif
+    }
     var body: some Scene {
         WindowGroup {
             ContentView()
